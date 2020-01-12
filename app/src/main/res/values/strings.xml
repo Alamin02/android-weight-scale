@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">BioSmart Scale</string>
+    <string name="walton_logo">Walton LOGO</string>
+
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="user_name">Username</string>
+    <string name="avatar">Avatar</string>
+    <string name="email">Email</string>
+    <string name="continue_button">Continue</string>
+    <string name="title_activity_user_info">UserInfoActivity</string>
+    <string name="user_information">User Information</string>
+    <string name="shape">Shape</string>
+    <string name="height">Height</string>
+    <string name="height_value">172cm</string>
+    <string name="birthday">Birthday</string>
+    <string name="birthday_value"> </string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="clothes_weight">Extra Weight</string>
+    <string name="confirm">Confirm</string>
+    <string name="connect_to_device">Connect To Device</string>
+    <string name="scan">Scan</string>
+    <string name="stop">Stop</string>
+    <string name="status">Status</string>
+    <string name="weight_value">O</string>
+    <string name="cancel">Cancel</string>
+    <string name="register_ok">Confirm</string>
+    <string name="date_format_day">yyyy-MM-dd</string>
+    <string name="year">year</string>
+    <string name="month">month</string>
+    <string name="day">day</string>
+    <string name="RegisterViewController_lowAge10">You are less than 10 years old, and you cannot get accurate measurements during the test</string>
+    <string name="set_wifi_settings">Set WiFi Settings</string>
+
+    <string-array name="user_shape_des">
+        <item>Not Selected</item>
+        <item>Slim</item>
+        <item>Standard</item>
+        <item>Muscular</item>
+        <item>Fat</item>
+    </string-array>
+
+
+    <string name="set_unit_is_empty">The set unit cannot be empty</string>
+    <string name="input_int">Please enter integer！</string>
+    <string name="device_set_empty">The current device that needs to be set cannot be empty</string>
+    <string name="connecting">Connecting</string>
+    <string name="disconnected">Disconnect</string>
+    <string name="connected">Connected</string>
+    <string name="disconnect_in_progress">Disconnect in progress</string>
+    <string name="connect">Connect</string>
+    <string name="measuring">Measuring</string>
+    <string name="connection_disconnected">Connection disconnected</string>
+    <string name="real_time_weight_measurement">Real-time weight measurement in progress</string>
+    <string name="impedance_measured">Impedance being measured</string>
+    <string name="measuring_heart_rate">Measuring heart rate</string>
+    <string name="measure_complete">Measurement to complete</string>
+    <string name="start_set_wifi">Start setting up WiFi</string>
+    <string name="failed_to_set_wifi">Failed to set WiFi</string>
+    <string name="success_to_set_wifi">WiFi set up successfully</string>
+    <string name="please_enter_body_fat_change_control">Please enter body fat change control</string>
+
+    <string name="connect_successfully">connected successfully</string>
+
+    <string name="weight">Weight</string>
+    <string name="is_peel">is peel</string>
+    <string name="is_negative">is negative</string>
+    <string name="is_overload">is overload</string>
+    <string name="type_very_low">Severe low</string>
+    <string name="type_low">low</string>
+    <string name="type_standar">standard</string>
+    <string name="type_high">high</string>
+    <string name="type_very_high">Severe high</string>
+    <string name="type_sufficient">sufficient</string>
+    <string name="type_shape_fueling">endomorphy type</string>
+    <string name="type_shape_full_figured">Full-figured type</string>
+    <string name="type_shape_invisible_obesity">Invisible obesity type</string>
+    <string name="type_shape_standard">standard type</string>
+    <string name="type_shape_standard_muscle">Standard muscle type</string>
+    <string name="type_shape_very_muscular">Very muscular type</string>
+    <string name="type_shape_lean">Lean type</string>
+    <string name="type_shape_lean_and_muscular">Lean and muscular type</string>
+    <string name="type_shape_hypokinesia">hypokinesia type</string>
+    <string name="type_reach_standard">Up to standard</string>
+    <string name="type_not_reach_standard">Not up to standard</string>
+    <string name="type_shape_none">No type</string>
+    <string name="no_standard">No standard </string>
+    <string name="kitchen_scale">kitchen scale</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_extra_weight">Enter extra weight</string>
+</resources>
